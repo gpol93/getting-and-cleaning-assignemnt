@@ -9,7 +9,7 @@ And the data here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 # R script
-The file RUN_ANALYSIS.R enables to get the final output tidySet.txt by  it does follow the instructions as presented in the read.me and the script comes with comments.
+The file RUN_ANALYSIS.R enables to get the final output tidySet.txt by  it does follow the instructions as presented in the read.me and the script comes with comments. [R SCRIPT](https://github.com/gpol93/getting-and-cleaning-assignemnt/blob/master/RUN_ANALYSIS.R
 
 # Info about the attributes
 For each record in the dataset it is provided:
