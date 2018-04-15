@@ -13,7 +13,7 @@ The file RUN_ANALYSIS.R enables to get the final output tidySet.txt by  it does 
 
 # Info about the attributes
 For each record in the dataset it is provided:
- #Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
- #Triaxial Angular velocity from the gyroscope.
- #A 561-feature vector with time and frequency domain variables.Its activity label.
- #An identifier of the subject who carried out the experiment.
+ 1. Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+ 2. Triaxial Angular velocity from the gyroscope.
+ 3. A 561-feature vector with time and frequency domain variables.Its activity label.
+ 4. An identifier of the subject who carried out the experiment.
